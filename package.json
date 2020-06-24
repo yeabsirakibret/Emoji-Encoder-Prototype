@@ -1,0 +1,14 @@
+{
+  "name": "emoji_encoder",
+  "version": "1.0.0",
+  "description": "'encode and decode'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "'Y3absira Kibret'",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.50.0"
+  }
+}
