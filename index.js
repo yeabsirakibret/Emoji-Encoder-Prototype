@@ -1,6 +1,6 @@
 var TelegramBot = require('node-telegram-bot-api'),
 // Be sure to replace YOUR_BOT_TOKEN with your actual bot token on this line.
-telegram = new TelegramBot("1108735212:AAHAuvm72jE2m3n3xmdL6nn2Atg0-Xt0pLs", { polling: true });
+telegram = new TelegramBot("YOUR_BOT_TOKEN", { polling: true });
 
 var whiteSpace = '😐';
 var encodedFlag = '👆👇👈👉';
